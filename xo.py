@@ -11,4 +11,5 @@ print (xo(s))
 """ If letters appear the same # of times, function 
 returns true. If they appear a different # of times,
 function returns false. """
+# codewars kata
 
