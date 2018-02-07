@@ -6,4 +6,5 @@ def maskify(cc):
 c = raw_input('Enter Private Information: ' )
 print maskify(c)
 
+# codewars kata
 # Hides Private Info, except for the last 4 
