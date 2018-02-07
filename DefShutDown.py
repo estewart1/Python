@@ -7,4 +7,4 @@ def shut_down(s):
     print("Sorry")
 shut_down(raw_input("Do you want to shudown? "))
 
-# Practice Using if/elif/else
+# Practice Using if/elif/else.
