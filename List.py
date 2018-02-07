@@ -9,3 +9,5 @@ if num >= 10:
      print "This is a big number."
 else:
     print "This is a small number."
+
+#Codecademy Practice, stating status of a number
