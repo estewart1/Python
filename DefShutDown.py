@@ -5,4 +5,6 @@ def shut_down(s):
     print("Shutdown aborted")
   else:
     print("Sorry")
-shut_down(input("Do you want to shudown? "))
+shut_down(raw_input("Do you want to shudown? "))
+
+# Practice Using if/elif/else
