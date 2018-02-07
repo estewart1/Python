@@ -4,4 +4,5 @@ age = int(age)
 year = str((2018 - age ) + 100)
 print (name + " will be 100 years old in " + year)
 
-# Tells age when you will be 100 years old
+#  Codeacademy Practice
+#  Tells age when you will be 100 years old
