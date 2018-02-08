@@ -5,4 +5,4 @@ if number % 2:
 else:
     print "Number is even."
 
-# Tells whether a number is even or odd
+# Tells whether a number is even or odd.
