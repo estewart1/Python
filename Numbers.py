@@ -6,3 +6,4 @@ else:
     print "Number is even."
 
 # Tells whether a number is even or odd.
+# Practice Python Exercise 
