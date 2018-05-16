@@ -1,0 +1,3 @@
+var Mary = '{ "height":5.9, "age":36, "eyecolor":"brown" }';
+var objectMary = JSON.parse(Mary);
+console.log(objectMary.age);

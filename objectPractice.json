@@ -1,0 +1,7 @@
+var user = {
+    "username" : "laura123",
+    "city" : "New York",
+    "system" : "linux"
+};
+user.name = ("Laura");
+console.log(user.name + " has a username of " + user.username ", is located in " + user.city + ", and uses " + user.system + ".");
